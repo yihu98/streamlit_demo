@@ -5,7 +5,7 @@ import pyperclip
 st.title("🌟 好评生成器")
 
 # 设置API密钥
-openai_api_key = "sk-Q2XMgFK-tJyxceZERkKfgZ3OyAVdaJb9LRQdxpAcIAT3BlbkFJa6fjKj4o9GOo12Aab7hHc_JnXStzcr6l3W0YEghUAA"
+openai_api_key = "api-key"
 
 # 可选项使用按钮组
 st.write("评论风格")
